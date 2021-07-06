@@ -51,7 +51,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BlastPower: 100
-  cannonballDmg: 5
+  cannonballDmg: 2
   Cannonball: {fileID: 5902321101475063141, guid: 9cee2ab057a12a2448bf0eb141eda736, type: 3}
   placeholder: {fileID: 3433476825904258368}
   key: 0
@@ -2842,7 +2842,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BlastPower: 100
-  cannonballDmg: 5
+  cannonballDmg: 2
   Cannonball: {fileID: 5902321101475063141, guid: 9cee2ab057a12a2448bf0eb141eda736, type: 3}
   placeholder: {fileID: 2782833795236395247}
   key: 1
