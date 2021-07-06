@@ -842,11 +842,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4e0fe547f87510489783aa1ed202c82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Motor: {fileID: 7289353108465941838}
-  SteerPower: 3000
-  Power: 500
-  MaxSpeed: 20
-  Drag: 0.1
+  Motor: {fileID: 1797314406841593238, guid: 2e6203ec525b19d4abbaf7aca8ab6e46, type: 3}
+  SteerPower: 6000
+  Power: 600
+  MaxSpeed: 24
+  Drag: 2
 --- !u!114 &7289353108439685610
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -862,7 +862,7 @@ MonoBehaviour:
   goldAmount: 0
   image: {fileID: 0}
   HP: 0
-  maxHP: 0
+  dmgLVL: 1
 --- !u!1 &7290272104886985694
 GameObject:
   m_ObjectHideFlags: 0
